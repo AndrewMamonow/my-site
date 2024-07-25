@@ -15,3 +15,5 @@
 ## email
 
 andrew.mamonow@yandex.ru
+
+![Фото](https://disk.yandex.ru/i/42SFfiVLfo23QQ)
