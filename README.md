@@ -17,3 +17,5 @@
 andrew.mamonow@yandex.ru
 
 ![Фото](../img/Фото_Мамонов.jpg)
+
+![](../img/artificial-intelligence.jpg)
