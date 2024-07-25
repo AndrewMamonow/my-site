@@ -17,6 +17,6 @@
 andrew.mamonow@yandex.ru
 
 
-![Фото](../img/Фото_Мамонов.jpg)
+![Фото](./img/Фото_Мамонов.jpg)
 
 
